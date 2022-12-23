@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/online-course-webpage-using-react.ja/static/css/main.073c9b0a.css",
+    "main.js": "/online-course-webpage-using-react.ja/static/js/main.af99898c.js",
+    "static/js/787.573ea6bb.chunk.js": "/online-course-webpage-using-react.ja/static/js/787.573ea6bb.chunk.js",
+    "index.html": "/online-course-webpage-using-react.ja/index.html",
+    "main.073c9b0a.css.map": "/online-course-webpage-using-react.ja/static/css/main.073c9b0a.css.map",
+    "main.af99898c.js.map": "/online-course-webpage-using-react.ja/static/js/main.af99898c.js.map",
+    "787.573ea6bb.chunk.js.map": "/online-course-webpage-using-react.ja/static/js/787.573ea6bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.af99898c.js"
+  ]
+}
